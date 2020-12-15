@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy J5 Prime",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "Xiamo note 9",
+      "price": 1550
+    },
+    {
+      "id": 3,
+      "name": "Iphone 7",
+      "price": 1500
+    },
+    {
+      "id": 4,
+      "name": "Positivo Twist",
+      "price": 550
+    }
+  ]
+}
