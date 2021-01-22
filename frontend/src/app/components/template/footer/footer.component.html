@@ -1,7 +1,10 @@
 <mat-toolbar class="footer">
     <span>Desenvolvido</span>
-    <i class="material-icons red v-middle">
+    <i class="material-icons v-middle" appRed>
         favorite
     </i>
-    por <strong> Cods<span class="red">3</span>r</strong>
+    por <strong> Cods<span>3</span>r</strong>
+    <ul>
+        <li *myFor="let n em [1, 2, 3]">{{ n }}</li>
+    </ul>
 </mat-toolbar>
